@@ -89,7 +89,7 @@ async def ayiin(ganteng):
 CMD_HELP.update(
     {
         "yinsping": f"**Plugin:** `yinsping`\
-        \n\n  »  **Perintah : **`Perintah Ini Hanya Untuk Devs 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 Tod.`\
+        \n\n  »  **Perintah : **`Perintah Ini Hanya Untuk Devs iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 Tod.`\
         \n  »  **Kegunaan :** __Silahkan Ketik `{cmd}ping` Untuk Publik.__\
     "
     }
