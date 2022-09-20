@@ -184,10 +184,10 @@ async def amireallyalive(alive):
     adB = AyiinDB()
     user = await alive.client.get_me()
     uptime = await get_readable_time((time.time() - StartTime))
-    await alive.edit("🎈")
+    await alive.edit("🤪")
     await asyncio.sleep(3)
     output = (
-        f"**Tʜᴇ [𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝](https://github.com/sip-Userbot/Nande-Telethon)**\n\n"
+        f"**Tʜᴇ [iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝](https://github.com/sip-Userbot/Nande-Telethon)**\n\n"
         f"**{alive_text}**\n\n"
         f"╭✠╼━━━━━━━━━━━━━━━✠╮\n"
         f"{emoji} **Bᴀsᴇ Oɴ :** ••{adB.name}••\n"
@@ -198,7 +198,7 @@ async def amireallyalive(alive):
         f"{emoji} **PʏTɢCᴀʟʟs Vᴇʀsɪᴏɴ :** `{pytgcallss}` \n"
         f"{emoji} **Tᴇʟᴇᴛʜᴏɴ Vᴇʀsɪᴏɴ :** `{version.__version__}` \n"
         f"{emoji} **Pʏ-𝗡𝗮𝗻𝗱𝗲 Vᴇʀsɪᴏɴ :** `{py_ver}`\n"
-        f"{emoji} **𝙽𝚊𝚗𝚍𝚎 Vᴇʀsɪᴏɴ :** `{ayiin_version}` [{HOSTED_ON}]\n"
+        f"{emoji} **iwans Vᴇʀsɪᴏɴ :** `{ayiin_version}` [{HOSTED_ON}]\n"
         f"{emoji} **Bᴏᴛ Uᴘᴛɪᴍᴇ :** `{uptime}`\n"
         "╰✠╼━━━━━━━━━━━━━━━✠╯\n\n"
     )
