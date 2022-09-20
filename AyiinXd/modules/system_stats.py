@@ -109,8 +109,8 @@ async def psu(event):
     help_string += "**Iɴғᴏʀᴍᴀsɪ Mᴇsɪɴ**\n"
     help_string += f"**Pʏᴛʜᴏɴ :** `{sys.version}`\n"
     help_string += f"**Tᴇʟᴇᴛʜᴏɴ :**`{__version__}`\n"
-    help_string += f"**Pʏ-Nande :** `{py_ver}`\n"
-    help_string += f"**𝗡𝗮𝗻𝗱𝗲 Vᴇʀsɪᴏɴ :** `{ayiin_version} [{HOSTED_ON}]`"
+    help_string += f"**Pʏ-Iwans :** `{py_ver}`\n"
+    help_string += f"**Wans Vᴇʀsɪᴏɴ :** `{ayiin_version} [{HOSTED_ON}]`"
     await edit_or_reply(event, help_string)
 
 
@@ -187,7 +187,7 @@ async def amireallyalive(alive):
     await alive.edit("🤪")
     await asyncio.sleep(3)
     output = (
-        f"**Tʜᴇ [iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝](https://github.com/sip-Userbot/Nande-Telethon)**\n\n"
+        f"**Tʜᴇ [iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝](https://github.com/WANSSUPPORT/iwans)**\n\n"
         f"**{alive_text}**\n\n"
         f"╭✠╼━━━━━━━━━━━━━━━✠╮\n"
         f"{emoji} **Bᴀsᴇ Oɴ :** ••{adB.name}••\n"
