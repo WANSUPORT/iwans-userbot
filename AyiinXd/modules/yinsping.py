@@ -36,9 +36,9 @@ absen = [
     "**Hadir Tuan** 🙏🏻",
     "**Hadir Majikan** 🙏🏻",
     "**Hadir Sayang** 😳",
-    "**Hadir Bro Nande** 😁",
+    "**Hadir Bro iwans** 😁",
     "**maaf ka habis nemenin ka Nandee** 🥺",
-    "**maaf ka habis disuruh Tuan Nandee** 🥺🙏🏻",
+    "**maaf ka habis disuruh Tuan iwans** 🥺🙏🏻",
     "**Hadir Sayang** 😘"
     "**Hadir Nande Akuuuuhhh** ☺️",
     "**Hadir Nande brother Aku** 🥰",
@@ -60,7 +60,7 @@ async def _(ping):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     user = await ping.client.get_me()
-    message = "**㋱ 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ㋱**\n\n✧ **ᴘɪɴɢᴇʀ :** `{} ms`\n✧ **ᴜᴘᴛɪᴍᴇ :** `{}`\n✧ **ᴏᴡɴᴇʀ :** `{}`\n✧ **ɪᴅ :** `{}`"
+    message = "**㋱ iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ㋱**\n\n㋱ **ᴘɪɴɢᴇʀ :** `{} ms`\n㋱ **ᴜᴘᴛɪᴍᴇ :** `{}`\n㋱ **ᴏᴡɴᴇʀ :** `{}`\n✧ **ɪᴅ :** `{}`"
     await ping.reply(message.format(duration, uptime, user.first_name, user.id)
                      )
 
