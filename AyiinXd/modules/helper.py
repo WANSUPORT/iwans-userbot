@@ -22,13 +22,13 @@ CMD_HELP.update(
     {
         "helper": f"**Plugin : **`helper`\
         \n\n  »  **Perintah :** `{cmd}ihelp`\
-        \n  »  **Kegunaan : **Bantuan Untuk 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
+        \n  »  **Kegunaan : **Bantuan Untuk iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
         \n\n  »  **Perintah :** `{cmd}listvar`\
         \n  »  **Kegunaan : **Melihat Daftar Vars.\
         \n\n  »  **Perintah :** `{cmd}repo`\
-        \n  »  **Kegunaan : **Melihat Repository 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
+        \n  »  **Kegunaan : **Melihat Repository iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
         \n\n  »  **Perintah :** `{cmd}string`\
-        \n  »  **Kegunaan : **Link untuk mengambil String 𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
+        \n  »  **Kegunaan : **Link untuk mengambil String iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝.\
     "
     }
 )
