@@ -4,8 +4,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/WANSUPORT/iwans-userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/WANSUPORT/iwans/graphs/commit-activity)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/WANSUPORT/iwans/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/WANSUPORT/iwans-userbot?&logo=github)](https://github.com/WANSUPORT/iwans/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/WANSUPORT/iwans-userbot?&logo=github)](https://github.com/WANSUPORT/iwans/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/WANSUPORT/iwans?&logo=github)](https://github.com/WANSUPORT/iwans/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/WANSUPORT/iwans?&logo=github)](https://github.com/WANSUPORT/iwans/stargazers)
 
 
 <p align="center">
