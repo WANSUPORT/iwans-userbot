@@ -61,4 +61,4 @@ def git():
         except GitCommandError:
             repo.git.reset("--hard", "FETCH_HEAD")
         install_req("pip3 install --no-cache-dir -r requirements.txt")
-        LOGS.info("Fetched Updates from Nande-Telethon")
+        LOGS.info("Fetched Updates from iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝")
