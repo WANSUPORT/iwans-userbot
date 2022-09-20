@@ -4,13 +4,13 @@
 
 FROM ayiinxd/ayiin-userbot:buster
 
-RUN git clone -b Nande-Telethon https://github.com/sip-Userbot/Nande-Telethon /home/nandetelethon/ \
-    && chmod 777 /home/nandetelethon \
-    && mkdir /home/nandetelethon/bin/
+RUN git clone -b iwans https://github.com/WANSUPORT/iwans /home/iwans/ \
+    && chmod 777 /home/iwans \
+    && mkdir /home/iwans/bin/
 
-COPY ./sample_config.env ./config.env* /home/nandetelethon/
+COPY ./sample_config.env ./config.env* /home/iwans/
 
-WORKDIR /home/nandetelethon/
+WORKDIR /home/iwans/
 
 RUN pip install -r requirements.txt
 
