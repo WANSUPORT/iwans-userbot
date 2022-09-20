@@ -58,8 +58,8 @@ async def autopilot():
     try:
         r = await bot(
             CreateChannelRequest(
-                title="𝙽𝚊𝚗𝚍𝚎 - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 Lᴏɢs",
-                about="» Group log Created by: Nande-Telethon\n\n» Support : @dSuportsipuserbot\n» Support: @SuportNande",
+                title="iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 Lᴏɢs",
+                about="» Group log Created by: iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝\n\n» Support : @wansnonsupport\n» Support: @SuportNande",
                 megagroup=True,
             ),
         )
