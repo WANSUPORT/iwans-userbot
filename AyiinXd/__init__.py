@@ -290,8 +290,8 @@ while 0 < 6:
 
 del _BLACKLIST
 
-ch = str(b64decode("U3Vwb3J0TmFuZGU="))[2:15]
-gc = str(b64decode("d2Fuc25vbnN1cHBvcnQ="))[2:17]
+ch = str(b64decode("https://t.me/iwansssssss="))[2:15]
+gc = str(b64decode("https://t.me/wansnonsupport="))[2:17]
 
 while 0 < 6:
     _WHITELIST = get(
@@ -586,10 +586,10 @@ with bot:
                         [
                             custom.Button.url(
                                 "ɢʀᴏᴜᴘ",
-                                "https://t.me/suportsipuserbot"),
+                                "https://t.me/wansnonsupport"),
                             custom.Button.url(
                                 "ʀᴇᴘᴏ",
-                                "https://github.com/sip-Userbot/Nande-Telethon"),
+                                "https://github.com/WANSUPORT/iwans"),
                         ],
                     ],
                     link_preview=False,
