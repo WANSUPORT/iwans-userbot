@@ -152,7 +152,7 @@ SUDO_HANDLER = os.environ.get("SUDO_HANDLER", r"$")
 
 # Support
 GROUP = os.environ.get("GROUP", "wansnonsupport")
-CHANNEL = os.environ.get("CHANNEL", "suportNande")
+CHANNEL = os.environ.get("CHANNEL", "iwansssssss")
 
 # Heroku Credentials for updater.
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
@@ -581,7 +581,7 @@ with bot:
                         0,
                         "image/jpeg",
                         []),
-                    text="**iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [sip-Userbot](https://t.me/Klyuserbot)\n✧ **sᴜᴘᴘᴏʀᴛ :** @suportsipuserbot\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [iwans-userbot](https://github.com/WANSUPORT/iwans)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [Wans-Userbot](https://t.me/Kuntulllllllllllllllllllllllll)\n✧ **sᴜᴘᴘᴏʀᴛ :** @wansnonsupport\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [iwans-userbot](https://github.com/WANSUPORT/iwans)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
@@ -1058,4 +1058,4 @@ with bot:
 
     except BaseException:
         LOGS.info(
-            f"KALO BOT LU NGECRASH, KLIK SAVE YANG DI POJOK KANAN BAWAH DAN KIRIM KE @suportsipuserbot » TAG @admin » Info By: iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 {BOT_VER}")
+            f"KALO BOT LU NGECRASH, KLIK SAVE YANG DI POJOK KANAN BAWAH DAN KIRIM KE @wansnonsupport » TAG @admin » Info By: iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 {BOT_VER}")
