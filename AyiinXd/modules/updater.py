@@ -130,7 +130,7 @@ async def upstream(event):
         xx = await eor(event, get_string("upd_1"))
     conf = event.pattern_match.group(1).strip()
     off_repo = b64decode(
-        "aHR0cHM6Ly9naXRodWIuY29tL1dBTlNVUE9SVC9pd2Fucw=="
+        "aHR0cHM6Ly9naXRodWIuY29tL1dBTlNVUE9SVC9pd2Fucy11c2VyYm90"
     ).decode("utf-8")
     force_update = False
     try:
