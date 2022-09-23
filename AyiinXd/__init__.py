@@ -581,7 +581,7 @@ with bot:
                         0,
                         "image/jpeg",
                         []),
-                    text="**iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [Wans-Userbot](https://t.me/Kuntulllllllllllllllllllllllll)\n✧ **sᴜᴘᴘᴏʀᴛ :** @wansnonsupport\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [iwans-userbot](https://github.com/WANSUPORT/iwans)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [Wans-Userbot](https://t.me/Kuntulllllllllllllllllllllllll)\n✧ **sᴜᴘᴘᴏʀᴛ :** @wansnonsupport\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [iwans-userbot](https://github.com/WANSUPORT/iwans-userbot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
@@ -589,7 +589,7 @@ with bot:
                                 "https://t.me/wansnonsupport"),
                             custom.Button.url(
                                 "ʀᴇᴘᴏ",
-                                "https://github.com/WANSUPORT/iwans"),
+                                "https://github.com/WANSUPORT/iwans-userbot"),
                         ],
                     ],
                     link_preview=False,
@@ -689,7 +689,7 @@ with bot:
                         0,
                         "image/jpeg",
                         []),
-                    text=f"**iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @suportsipuserbot\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @wansnonsupport\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
@@ -697,7 +697,7 @@ with bot:
                                 "https://t.me/wansnonsupport"),
                             custom.Button.url(
                                 "ʀᴇᴘᴏ",
-                                "https://github.com/WANSUPORT/iwans"),
+                                "https://github.com/WANSUPORT/iwans-userbot"),
                         ],
                     ],
                     link_preview=False,
