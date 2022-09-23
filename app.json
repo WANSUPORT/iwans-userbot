@@ -3,7 +3,7 @@
   "description": "[iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝] Selamat pakai, Gunakan dengan bijak",
   "logo": "https://telegra.ph/file/17dbf290bbadaf6290806.jpg",
   "keywords": ["telegram", "userbot", "iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝", "modular", "python"],
-  "repository": "https://github.com/WANSUPPORT/iwans",
+  "repository": "https://github.com/WANSUPORT/iwans-userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
