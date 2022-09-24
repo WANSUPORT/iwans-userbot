@@ -574,8 +574,8 @@ with bot:
             elif query.startswith("repo"):
                 result = builder.article(
                     title="Repository",
-                    description="Repository iwans - 𝚄𝚜𝚎𝚛𝚋𝚘",
-                    url="https://t.me/suportsipuserbot",
+                    description="Repository iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝",
+                    url="https://t.me/wansnonsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
@@ -615,7 +615,7 @@ with bot:
                                 url="https://repl.it/WANSUPORT/stringwans?lite=1&outputonly=1"),
                         ],
                         [
-                            custom.Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/suportsipuserbot"),
+                            custom.Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/wansnonsupport"),
                         ],
                     ],
                     link_preview=False,
@@ -683,7 +683,7 @@ with bot:
                 result = builder.article(
                     title="✨ iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ✨",
                     description="iwans - 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 | Telethon",
-                    url="https://t.me/suportsipuserbot",
+                    url="https://t.me/wansnonsupport",
                     thumb=InputWebDocument(
                         INLINE_PIC,
                         0,
